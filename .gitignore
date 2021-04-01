@@ -42,6 +42,20 @@
 # *.iml
 # *.ipr
 # *.idea
+# .idea
+
+# 8puzzle/.idea
+# 8puzzle/.lift
+# 8puzzle/Algorithms, Part I.iml
+# collinear/.idea
+# collinear/.lift
+# collinear/Algorithms, Part I.iml
+# percolation/.idea
+# percolation/.lift
+# percolation/Algorithms, Part I.iml
+# queues/.idea
+# queues/.lift
+# queues/Algorithms, Part I.iml
 
 # CMake
 cmake-build-*/
