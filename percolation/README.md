@@ -4,4 +4,4 @@ Write a program to estimate the value of the percolation threshold via Monte Car
 [Specification](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php)
 
 ### Tests
-![Tests](tests.jpg)
+![Tests](tests.png)
